@@ -1,0 +1,5 @@
+/opt/projects/dockerwebapp/src/test/java/com/visualpathit/account/modelTest/UserTest.java
+/opt/projects/dockerwebapp/src/test/java/com/visualpathit/account/setup/StandaloneMvcTestViewResolver.java
+/opt/projects/dockerwebapp/src/test/java/com/visualpathit/account/modelTest/RoleTest.java
+/opt/projects/dockerwebapp/src/test/java/com/visualpathit/account/controllerTest/UserControllerTest.java
+/opt/projects/dockerwebapp/src/test/java/com/visualpathit/account/controllerTest/SampleTest.java
