@@ -2,16 +2,16 @@ version: "3.9"
 
 services:
   devopsdb:
-    image: chethanteja/automation:db
+    image: chethanteja/dbimage:v1
     ports:
       - "3306:3306"
     deploy:
-      replicas: 3
+      replicas: 1
     networks:
       - mynetwork
 
   application:
-    image: chethanteja/automation:app
+    image: chethanteja/appimage:v1
     ports:
       - "1111:8080"
     deploy:
